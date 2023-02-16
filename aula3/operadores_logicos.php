@@ -49,7 +49,7 @@ Murilo disse a Bruna que iria ao parque se:
 <?php
     $condicao1 = true;
     $condicao2 = false;
-    acao_murilo = $condicao1 && $condicao2;
+    acao_murilo = $condicao1 && $condicao2;git push -u origin main
     var_dump($acao_murilo);
 ?>
 
